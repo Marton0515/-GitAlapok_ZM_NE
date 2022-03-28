@@ -1,0 +1,7 @@
+Git init: Respository létrehozása.
+Git status: Kiírja melyik Respositoryban vagy.
+Git add: Ebben a könyvtárban módosítunk valamit, elmentjük ahogy szoktuk a munkánkat, viszont ettől még nem kerül be a Git adatbázisába. Ehhez először ki kell jelölnünk, hogy mely fileokat ajánljuk a Git figyelmébeEbben a könyvtárban módosítunk valamit, elmentjük ahogy szoktuk a munkánkat, viszont ettől még nem kerül be a Git adatbázisába. Ehhez először ki kell jelölnünk, hogy mely fileokat ajánljuk a Git figyelmébe.
+Git log:
+Git branch: Kiírja az összes Branchet és azt is, hogy melyikbe vagy benne.
+Stage: Ahonna végül egy konkrét commit történik.
+Git diff:Definíció, az eltérést kiírja a Branchek között.
